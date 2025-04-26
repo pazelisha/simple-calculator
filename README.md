@@ -4,4 +4,4 @@ This is the project of Ievegeni Vainer and Paz Elisha for the course **Client-Si
 
 ## Demonstration
 
-![SimpleCalc Demonstration](./simplecalc_demonstration.gif)
+<img src="./simplecalc_demonstration.gif" width="50%" />
